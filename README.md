@@ -48,7 +48,14 @@ Focused on React/Tailwind for the web and Kotlin for mobile. Learning fast, deli
 ---
 
 ## ✨ Current Projects
-
-
+<h3> Big Head </h3> 
+<p> A multi agent code reviewer that:
+<ol>
+  <li>Agent 1 (Erlich) Analyzes your pull request for issues and improvements.</li>
+  <li> Agent 2 (Jin Yang) Suggests actions based on the PR.</li>
+  <li> Agent 3 (Dinesh) Implements the suggested changes and generates test cases, or closes the PR, based on user confirmation.</li>
+  <li> Agent 4 (Gilfoyle) Validates code and test cases before creating a pull request to main branch (final agent)</li>
+</ol>
+</p>
 
 ---
